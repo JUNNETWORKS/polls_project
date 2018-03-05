@@ -6,4 +6,4 @@ For example, server test and your local environment test etc...
 
 <br>
 
-*If something is wrong, it will be helpful if you send a pull request.*
+**If something is wrong, it will be helpful if you send a pull request.**
